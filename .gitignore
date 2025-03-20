@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+venv_arm64/
+venv_arm64_clean/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# SQL database files (if using SQLite or similar)
+*.sqlite3
+*.db
+
+# Log files and dumps
+*.log
+*.dmp
